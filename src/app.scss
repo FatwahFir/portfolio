@@ -24,3 +24,12 @@ section{
     height: 100vh;
     scroll-snap-align: center;
 }
+
+::-webkit-scrollbar{
+    width: 5px;
+}
+
+::-webkit-scrollbar-thumb{
+    background-color: lightgray;
+    border-radius: 10px;
+}

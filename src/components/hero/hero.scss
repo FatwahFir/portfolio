@@ -29,6 +29,7 @@
             }
 
             .buttons{
+                z-index: 999;
                 button{
                     border-radius: 10px;
                     background-color: transparent;
@@ -42,6 +43,7 @@
             }
 
             img{
+                z-index: 999;
                 width: 50px;
             }
         }
